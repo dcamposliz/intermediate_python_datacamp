@@ -8,8 +8,8 @@
 ## Data Visualization
 
 * Very important in Data Analysis
-* Explore data
-* Report insights
+  * Explore data
+  * Report insights
 
 matplotlib
 
